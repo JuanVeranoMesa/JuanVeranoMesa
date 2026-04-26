@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JuanVeranoMesa
 - 👀 I’m interested in music, video games, and learning to code.
-- 🌱 I’m currently learning Python!
+- 🌱 I’m currently undergoing a Master of Science in Computer Science!
 - 💞️ I’m looking to collaborate on entry level projects!
 - 📫 How to reach me jdveranomesa@icloud.com
 
