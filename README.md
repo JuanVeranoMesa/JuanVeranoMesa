@@ -3,6 +3,7 @@
 - 🌱 I’m currently undergoing a Master of Science in Computer Science!
 - 💞️ I’m looking to collaborate on entry level projects!
 - 📫 How to reach me juan.veranomesa@icloud.com
+- 🌐 Portfolio website (WIP!): https://JuanVeranoMesa.github.io
 
 <!---
 JuanVeranoMesa/JuanVeranoMesa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
