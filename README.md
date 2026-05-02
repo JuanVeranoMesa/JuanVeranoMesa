@@ -2,7 +2,7 @@
 - 👀 I’m interested in music, video games, and learning to code.
 - 🌱 I’m currently undergoing a Master of Science in Computer Science!
 - 💞️ I’m looking to collaborate on entry level projects!
-- 📫 How to reach me jdveranomesa@icloud.com
+- 📫 How to reach me juan.veranomesa@icloud.com
 
 <!---
 JuanVeranoMesa/JuanVeranoMesa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
